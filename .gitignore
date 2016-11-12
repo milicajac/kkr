@@ -9,5 +9,6 @@ MANIFEST.MF
 .idea
 *.iml
 *.jar
+!kkr.jar
 RemoteSystemsTempFiles
 bin
